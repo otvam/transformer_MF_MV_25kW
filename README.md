@@ -25,10 +25,22 @@ The following folders contain the parts in various formats:
 Additionnaly, the following parts are used:
 * Fan Connector : Phoenix 1899139
 * NTC Connector : 3M 960104-6202-AR
-* Axial Fan: Sunon ME50100V1-000U-A99 	
+* Axial Fan: Sunon ME50100V1-000U-A99
 * Magnetic Core: Blinzinger U93/60/30 (customized U93/76/30)
 * LV Litz Wire : Von Roll  Litz 2500x100 um (custom design)
 * HV Litz Wire : Pack Litz 630x71 um (custom design)
+
+For the assembly, the following compounds are used:
+* MG Chemicals 8331 (grounding of the cores)
+* Dow Corning TC4605 HLV (potting silicone)
+* Loctite 3090 (coil former assembling)
+
+The CAD model has the following shortcomings:
+* The slots for the temperature cable sensors is too narrow.
+* The holes for injecting the silicone potting are not included.
+* The space for the cable terminations is very tight (difficult to assemble).
+* The MV coil former is fragile and should be handled with care during the assembly.
+* For testing a single fan (NMB 11925SA-12Q) has been used (instead of the six small fans).
 
 ### Gallery
 
